@@ -1,0 +1,26 @@
+{
+  "name": "manajement_tugas_be",
+  "version": "1.0.0",
+  "description": "Test Fullstact Manajement Tugas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Task",
+    "Management",
+    "Javascript",
+    "postgreSql"
+  ],
+  "author": "arsrsyh",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.53.0",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
